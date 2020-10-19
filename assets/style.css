@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+header {
+    background-image: url("black-1072366_960_720.webp");
+    border-style: solid;
+    border: 20px;
+    border-color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+nav {
+    background-color: lightgreen;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 100%;
+}
